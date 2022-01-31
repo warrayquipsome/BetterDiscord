@@ -30,26 +30,3 @@
 #app-mount [data-user-id="709377715320651838"] .avatarPositionNormal-2jWoC2 {margin-left: 290px;}
 #app-mount [data-user-id="709377715320651838"] .aboutMeTitle-3pjiS7 {margin-left: 300px;}
 #app-mount [data-user-id="709377715320651838"] .bodyTitle-2Az3VQ.base-21yXnu::before {display: none;}
-
-
-
-
-
-/*demented elmo credit css*/
-/*Popout Fixes*/
-#app-mount [data-user-id="810543628307922955"] .bodyInnerWrapper-2bQs1k, .textarea-_59yqs.inputDefault-3FGxgL.input-2g-os5.scrollbarGhostHairline-2LpzZ9.scrollbar-3vVt8d {background: transparent;}
-/*Personal Colored Roles*/
-#app-mount [data-user-id="810543628307922955"] .role-2TIOKu {
-position: relative;
-overflow: hidden;
-z-index: 0;}
-.roleCircle-1EgnFN::before {
-content: "";
-position: absolute;
-top: 0; left: 0;
-width: 100%; height: 100%;
-background: inherit;
-opacity: 0.4;
-z-index: -1}
-/*Background Image*/
-#app-mount [data-user-id="810543628307922955"].userPopout-2j1gM4 {background-image: url(https://cdn.discordapp.com/attachments/872597872472907896/876122913869299782/Screen_Shot_2021-08-14_at_9.09.59_AM.png);}
