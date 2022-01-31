@@ -2,8 +2,8 @@
 #app-mount [data-user-id="709377715320651838"] .profileBadges-2pItdR::after,
 #app-mount [data-user-id="709377715320651838"] .badges-XRnWAp::after {
   content: "";
-  width: 26px;
-  height: 26px;
-  margin-top: -2px;
-  background: url(https://i.imgur.com/sYbtSb3.png) center / 100% 100%!important;
+  width: 22px;
+  height: 16px;
+  margin-top: 3px;
+  background: url(https://i.imgur.com/pqQVFrb.png) center / 100% 100%!important;
 }
